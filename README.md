@@ -2,4 +2,6 @@
 
 Hola mi personas!
 
-Yo soy una alien de la luna. Me gusta tacos muy picante. Adios!
+Yo soy una alien de la luna. Me gusta tacos muy picante. 
+
+Adios mis amigos!
